@@ -22,6 +22,8 @@ public class LogSystem {
     }
 
     public void log(String message, String level, String strategy){
+        /* here we can use factory design using enum to set this up) */
+
         if(strategy.equals("console")){
             processor.setStrategy(consoleStrategy);
         } else if(strategy.equals("db")){
