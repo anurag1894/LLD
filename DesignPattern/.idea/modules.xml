@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.CreationalDP/1.ProtoTypeDP/1.ProtoTypeDP.iml" filepath="$PROJECT_DIR$/1.CreationalDP/1.ProtoTypeDP/1.ProtoTypeDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.CreationalDP/2.SingletonDP/2.SingletonDP.iml" filepath="$PROJECT_DIR$/1.CreationalDP/2.SingletonDP/2.SingletonDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.CreationalDP/3.FactoryDP/3.FactoryDP.iml" filepath="$PROJECT_DIR$/1.CreationalDP/3.FactoryDP/3.FactoryDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.CreationalDP/4.AbstractFactoryDP/4.AbstractFactoryDP.iml" filepath="$PROJECT_DIR$/1.CreationalDP/4.AbstractFactoryDP/4.AbstractFactoryDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.CreationalDP/5.BuilderDP/5.BuilderDP.iml" filepath="$PROJECT_DIR$/1.CreationalDP/5.BuilderDP/5.BuilderDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DesignPattern.iml" filepath="$PROJECT_DIR$/.idea/DesignPattern.iml" />
+    </modules>
+  </component>
+</project>
