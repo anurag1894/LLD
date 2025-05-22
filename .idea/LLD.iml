@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/DesignPattern/3.BehaviouralDP/5.Template/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DesignPattern/3.BehaviouralDP/7.Command/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problem/DesignATM/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problem/ElevatorSystem/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problem/LoggingSystem/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
