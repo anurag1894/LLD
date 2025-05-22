@@ -1,1 +1,1 @@
-![](/Users/anuragjha/Documents/GitHub/LLD/Problem/LoggingSystem/Screenshot%202025-05-21%20at%207.38.30 PM.png)
+![Screenshot 2025-05-21 at 7.38.30 PM.png](Screenshot%202025-05-21%20at%207.38.30%E2%80%AFPM.png)
