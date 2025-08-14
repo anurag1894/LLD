@@ -32,7 +32,7 @@ public class ATMInventory {
                 dispensedCash.put(Cash.THOUSAND, amount/1000);
             }
             inventory.put(Cash.THOUSAND, inventory.get(Cash.THOUSAND)-amount%1000);
-            amount = amount- (amount/1000)*1000;
+            amount = amount- (amount/1000)*1000;  // 1800 / 500 = 3 , 300 , 300/200 = 1, 100
         }
         if(amount > 500){
             if(amount/500 >0){
