@@ -18,6 +18,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Problem/ParkingLotSystem/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algoMaster/Snake&amp;LadderGame/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algoMaster/TicTacToe/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algoMaster/AuctionService/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algoMaster/VendingMachine/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
