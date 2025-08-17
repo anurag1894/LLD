@@ -21,6 +21,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algoMaster/AuctionService/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algoMaster/HotelMgmtService/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algoMaster/VendingMachine/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algoMaster/DigitalWallet/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
