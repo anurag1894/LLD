@@ -4,7 +4,7 @@ import AMS.constant.BookingStatus;
 import AMS.model.Booking;
 
 public class BookTicket implements FlightCommand{
-
+    
     @Override
     public void execute(Booking booking) {
         booking.setStatus(BookingStatus.PAYMENT_MODE);

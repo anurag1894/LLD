@@ -8,7 +8,7 @@ import java.util.List;
 public class ProcessInvoker {
     List<Booking> bookingList;
     public ProcessInvoker() {
-        List<Booking> bookingList = new ArrayList<Booking>();
+        bookingList = new ArrayList<Booking>();
     }
 
     public void processBooking(Booking booking, FlightCommand flightCommand) {
