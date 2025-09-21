@@ -22,7 +22,6 @@ public class ElevatorController {
         for (int i = 0; i < floorCount; i++) {
             floorList.add(i);
         }
-
     }
 
     public void setSchedulingStrategy(schedulingStrategy schedulingStrategy) {

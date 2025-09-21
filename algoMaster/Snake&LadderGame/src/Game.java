@@ -16,7 +16,7 @@ public class Game {
 
     public void play() throws InterruptedException {
         while(!isGameOver()){
-            Thread.sleep(300);
+            Thread.sleep(3000);
             Player currentPlayer = players.poll();
             int diceRoll = dice.rollDice();
             int newPosition = currentPlayer.getPosition() + diceRoll;

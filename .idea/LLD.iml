@@ -28,6 +28,12 @@
       <sourceFolder url="file://$MODULE_DIR$/algoMaster/BookMyShow/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algoMaster/Splitwise/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algoMaster/FoodDeliveryService/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algoMaster/Spotify/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algoMaster/UberOrOla/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problem/vymo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algoMaster/ParkingLot/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algoMaster/MultiThreading/Producer&amp;Consumer" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/algoMaster/UberOrOla/src/U&amp;O" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
