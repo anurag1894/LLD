@@ -22,7 +22,7 @@ public class Inventory {
     }
 
     public boolean isItemAvailable(int productCode) {
-      return productMap.get(productCode).isAvailable();
+      return item.get(productMap.get(productCode))!=0;
     }
 
     public boolean addItem(int productCode, int quantity, String itemName, int price) {

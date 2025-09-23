@@ -40,9 +40,16 @@ public class VendingMachineContext {
 
 
     public void showInventory(){
+       reset();
        inventory.showItems();
     }
 
+
+    /**
+     *
+     * @param productCode
+     * @return
+     */
     public boolean pickItem(int productCode){
         if(currentState instanceof IdleMachineState){
             if(inventory.isItemAvailable(productCode)) {
@@ -57,6 +64,7 @@ public class VendingMachineContext {
 
                 return true;
             } else{
+
                 updateState();
                 System.out.println("No item available");
                 return false;
@@ -67,6 +75,11 @@ public class VendingMachineContext {
         }
     }
 
+    /**
+     *
+     * @param coin
+     * @param quantity
+     */
     public void addCoin(Coin coin, int quantity){
         if(currentState instanceof HasCashVendingState) {
             coins.put(coin, coins.getOrDefault(coin, 0) + quantity);
@@ -82,6 +95,10 @@ public class VendingMachineContext {
         }
     }
 
+    /**
+     *
+     * @return
+     */
     public boolean paymentComplete(){
         if(currentState instanceof HasCashVendingState){
             int totalCash = getTotalCash();
@@ -101,6 +118,10 @@ public class VendingMachineContext {
         }
     }
 
+    /**
+     *
+     * @return
+     */
     public boolean dispenseItem(){
         if(currentState instanceof DispenseState){
 
@@ -114,6 +135,13 @@ public class VendingMachineContext {
             return false;
         }
     }
+
+    /**
+     *
+     * TODO:  There need to add a new method for cancel at anytime, This will add new state , which will change to  Idle again,
+     * TODO: need to add stack for current expense which will return money back to User.
+     */
+
 
     private int getTotalCash(){
         int totalCash = 0;

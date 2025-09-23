@@ -10,6 +10,7 @@ public class Main {
         context.addInInventory(1,10,"PEPSI",15);
         context.addInInventory(2,1,"MIRANDA",15);
         context.addInInventory(3,2,"LAYS",5);
+        context.addInInventory(4,0,"TEST",10);
         while(true){
 
             context.showInventory();
