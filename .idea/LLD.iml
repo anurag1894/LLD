@@ -20,7 +20,6 @@
       <sourceFolder url="file://$MODULE_DIR$/algoMaster/TicTacToe/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algoMaster/AuctionService/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algoMaster/HotelMgmtService/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/algoMaster/VendingMachine/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algoMaster/DigitalWallet/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algoMaster/AirlineMgmtService/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algoMaster/ChessGame/src" isTestSource="false" />
@@ -31,8 +30,11 @@
       <sourceFolder url="file://$MODULE_DIR$/algoMaster/Spotify/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algoMaster/UberOrOla/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problem/vymo/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/algoMaster/ParkingLot/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algoMaster/MultiThreading/Producer&amp;Consumer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algoMaster/LoggingFrameWork/Logging" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Final/ParkingLot/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Final/StackOverflow/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Final/VendingMachine/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/algoMaster/UberOrOla/src/U&amp;O" />
     </content>
     <orderEntry type="inheritedJdk" />
