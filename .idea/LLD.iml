@@ -35,6 +35,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Final/ParkingLot/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Final/StackOverflow/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Final/VendingMachine/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Final/LoggingFrameWork/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/algoMaster/UberOrOla/src/U&amp;O" />
     </content>
     <orderEntry type="inheritedJdk" />
