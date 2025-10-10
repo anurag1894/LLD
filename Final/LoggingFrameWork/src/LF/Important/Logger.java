@@ -63,6 +63,7 @@ public class Logger {
 
     private void callAppenders(LogMessage logMessage) {
         // 1. Process through COR handler chain first
+        // this is extension
         if (handlerChain != null) {
             handlerChain.handle(logMessage);
         }
